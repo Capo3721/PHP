@@ -11,7 +11,8 @@
     $idade = (int)39;
     $nome = (string)"Arthur";
     $prof = (string)"Servidor";
-    echo "O $nome tem $idade anos e a sua profissão é $prof."
+    echo "O $nome tem $idade anos e
+     a sua profissão é $prof."
     ?>
 </body>
 </html>
